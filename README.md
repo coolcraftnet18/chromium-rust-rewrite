@@ -1,4 +1,4 @@
-# ![Logo](chrome/app/theme/chromium/product_logo_64.png) Chromium Rust Rewrite
+# ![Logo](https://github.com/coolcraftnet18/chromium-rust-rewrite/blob/master/image%20(6).png?raw=true) Chromium Rust Rewrite
 
 Chromium rust rewrite available soon!
 
