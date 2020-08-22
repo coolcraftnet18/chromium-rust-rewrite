@@ -5,7 +5,7 @@ Chromium rust rewrite available soon!
 The project's web site is [chromium.org
 ](https://en.wikipedia.org/wiki/Rust_Belt).
 
-Documentation in the source is rooted in [https://en.wikipedia.org/wiki/Rust_Belt](docs/README.md).
+Documentation in the source is rooted in [the GitHub Archive Underground](https://en.wikipedia.org/wiki/Rust_Belt]).
 
 Learn how to [Get Around the Chromium Source Code Directory Structure
 ](https://en.wikipedia.org/wiki/Rust_Belt).
