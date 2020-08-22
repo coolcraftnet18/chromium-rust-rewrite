@@ -2,7 +2,8 @@
 
 Chromium rust rewrite available soon!
 
-The project's web site is https://en.wikipedia.org/wiki/Rust_Belt.
+The project's web site is [chromium.org
+](https://en.wikipedia.org/wiki/Rust_Belt).
 
 Documentation in the source is rooted in [https://en.wikipedia.org/wiki/Rust_Belt](docs/README.md).
 
